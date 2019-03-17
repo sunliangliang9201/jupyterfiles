@@ -1,0 +1,19 @@
+2018-06-27 17:20:40.823101: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job ps -> {0 -> localhost:1981, 1 -> 0.0.0.0:1980}
+2018-06-27 17:20:40.823173: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job worker -> {0 -> 0.0.0.0:1983, 1 -> 0.0.0.0:1984, 2 -> 0.0.0.0:1985}
+2018-06-27 17:20:40.823592: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:332] Started server with target: grpc://localhost:1981
+2018-06-27 17:20:48.256415: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job ps -> {0 -> 0.0.0.0:1981, 1 -> localhost:1980}
+2018-06-27 17:20:48.256475: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job worker -> {0 -> 0.0.0.0:1983, 1 -> 0.0.0.0:1984, 2 -> 0.0.0.0:1985}
+2018-06-27 17:20:48.256892: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:332] Started server with target: grpc://localhost:1980
+2018-06-27 17:21:50.074415: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job ps -> {0 -> 0.0.0.0:1981, 1 -> 0.0.0.0:1980}
+2018-06-27 17:21:50.074475: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job worker -> {0 -> localhost:1983, 1 -> 0.0.0.0:1984, 2 -> 0.0.0.0:1985}
+2018-06-27 17:21:50.074868: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:332] Started server with target: grpc://localhost:1983
+2018-06-27 17:21:53.877845: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job ps -> {0 -> 0.0.0.0:1981, 1 -> 0.0.0.0:1980}
+2018-06-27 17:21:53.877900: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job worker -> {0 -> 0.0.0.0:1983, 1 -> localhost:1984, 2 -> 0.0.0.0:1985}
+2018-06-27 17:21:53.878328: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:332] Started server with target: grpc://localhost:1984
+2018-06-27 17:21:59.627105: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job ps -> {0 -> 0.0.0.0:1981, 1 -> 0.0.0.0:1980}
+2018-06-27 17:21:59.627187: I tensorflow/core/distributed_runtime/rpc/grpc_channel.cc:215] Initialize GrpcChannelCache for job worker -> {0 -> 0.0.0.0:1983, 1 -> 0.0.0.0:1984, 2 -> localhost:1985}
+2018-06-27 17:21:59.627627: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:332] Started server with target: grpc://localhost:1985
+2018-06-27 17:22:20.359198: I tensorflow/core/distributed_runtime/master_session.cc:1136] Start master session 4de6fbe89d363371 with config: 
+2018-06-27 17:24:24.720289: I tensorflow/core/distributed_runtime/master_session.cc:1136] Start master session 2f475ee000c0b202 with config: 
+2018-06-27 17:24:39.366805: I tensorflow/core/distributed_runtime/master_session.cc:1136] Start master session 82bd768b5ca9b9ea with config: 
+2018-06-27 17:27:58.612922: I tensorflow/core/distributed_runtime/master_session.cc:1136] Start master session c80560259d1c6c83 with config: 
